@@ -13,7 +13,6 @@ Group:		Monitoring
 Obsoletes:	Slay
 Provides:	Slay
 BuildArch:	noarch
-BuildRoot:	%{_tmppath}/%{name}-%{version}
 
 %description 
 Slay sends given signal (KILL by default) to all processes belonging to user(s) 
