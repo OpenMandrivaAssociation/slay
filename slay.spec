@@ -15,7 +15,7 @@ Provides:	Slay
 BuildArch:	noarch
 
 %description 
-Slay sends given signal (KILL by default) to all processes belonging to user(s) 
+Slay sends given signal (KILL by default) to all processes belonging to user(s)
 given on the command line. 
 
 %prep
