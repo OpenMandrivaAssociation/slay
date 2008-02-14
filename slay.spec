@@ -10,6 +10,7 @@ Summary:	Utility to kill all processes belonging to a user
 Source:		%{Name}-%{version}.tar.bz2
 License:	GPL
 Group:		Monitoring
+BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 Obsoletes:	Slay
 Provides:	Slay
 BuildArch:	noarch
