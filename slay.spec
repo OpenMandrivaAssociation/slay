@@ -1,7 +1,7 @@
 %define name	slay
 %define Name	Slay
 %define version	1.2
-%define release	%mkrel 15
+%define release	16
 
 Name:		%{name}
 Version:	%{version}
