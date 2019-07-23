@@ -5,7 +5,7 @@
 
 Name:		%{name}
 Version:	%{version}
-Release:	%{release}
+Release:	1
 Summary:	Utility to kill all processes belonging to a user
 Source:		%{Name}-%{version}.tar.bz2
 License:	GPL
